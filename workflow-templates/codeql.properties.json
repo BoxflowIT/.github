@@ -1,0 +1,6 @@
+{
+  "name": "CodeQL (BoxflowIT)",
+  "description": "Run CodeQL security analysis on push, PR, and weekly.",
+  "iconName": "octicon shield-check",
+  "categories": ["Security", "TypeScript", "JavaScript"]
+}
